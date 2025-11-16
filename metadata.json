@@ -1,0 +1,5 @@
+{
+  "name": "Human Activity Recognition LNN Project Explorer",
+  "description": "An interactive web application to explore and understand the project 'Human Activity Recognition Using Liquid Neural Network (LNN)'. It visualizes the project's methodology, expected results, and provides an AI-powered explainer for core concepts.",
+  "requestFramePermissions": []
+}
